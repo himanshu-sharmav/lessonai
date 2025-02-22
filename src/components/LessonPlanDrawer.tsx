@@ -9,9 +9,7 @@ import {
   DrawerHeader,
   DrawerTitle,
 } from "@/components/ui/drawer";
-import { useReactToPrint } from 'react-to-print';
 import { useRef } from 'react';
-import { Separator } from "@/components/ui/separator";
 import { Card } from "@/components/ui/card";
 import jsPDF from 'jspdf';
 import html2canvas from 'html2canvas';
