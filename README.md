@@ -87,8 +87,8 @@ yarn dev
 ### Demo Credentials
 
 ```README.md
-Username: abhiboostin
-Password: abhiboostin123
+Username: demouser
+Password: demopass
 ```
 
 ## Contributing
