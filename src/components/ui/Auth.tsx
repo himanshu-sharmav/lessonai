@@ -19,7 +19,7 @@ const Auth = ({ onLogin }: { onLogin: () => void }) => {
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
-    if (username === "abhiboostin" && password === "abhiboostin123") {
+    if (username === "demouser" && password === "demopass") {
       localStorage.setItem("isLoggedIn", "true");
       onLogin();
       router.push("/lessonplanner");

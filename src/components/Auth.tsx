@@ -14,7 +14,7 @@ const Auth = () => {
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
-    if (username === "abhiboostin" && password === "abhiboostin123") {
+    if (username === "demouser" && password === "demopass") {
       localStorage.setItem("isLoggedIn", "true");
       router.push("/lessonplanner");
     } else {

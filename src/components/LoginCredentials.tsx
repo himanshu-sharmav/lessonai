@@ -21,8 +21,8 @@ export function LoginCredentials() {
           <div className="space-y-2">
             <h4 className="font-medium">Login Credentials</h4>
             <div className="text-sm text-muted-foreground space-y-1">
-              <p>Username: <span className="font-mono">abhiboostin</span></p>
-              <p>Password: <span className="font-mono">abhiboostin123</span></p>
+              <p>Username: <span className="font-mono">demouser</span></p>
+              <p>Password: <span className="font-mono">demopass</span></p>
             </div>
           </div>
         </PopoverContent>
